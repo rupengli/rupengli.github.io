@@ -21,7 +21,7 @@ This is an compulsory course for students from all engineering, science related 
 - Physical optics
 - Thermodynamics
 
-Course evaluation: ranking **127 out of a total of 1012** courses university-wide **(top 12.5%)**
+Course evaluation: ranking **1 out of 9** school-wide, **127 out of a total of 1012** courses university-wide **(top 12.5%)**
 Provided 1-on-30 tutoring to students who were initially struggling, scoring below 30 on their
 mid-term assessments. After several tutoring sessions, they achieved on average a score of 75 on
 the final exam, with the highest achieved score of 92 **(ranking 8/124)**
